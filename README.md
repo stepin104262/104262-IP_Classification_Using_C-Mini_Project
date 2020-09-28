@@ -1,17 +1,17 @@
 # 104262-IP_Classification-Mini_Project
 
 ## How to use makefile
-1. To compile the program: 
+1. To COMPILE the code: 
 ```bash
 make -f MakeFile compile
 ```
 
-2. To run the code: 
+2. To RUN the code: 
 ```bash
 make -f MakeFile run
 ```
 
-3. To delete the object file:
+3. To DELETE the object file:
 ```bash
 make -f MakeFile clean
 ```
